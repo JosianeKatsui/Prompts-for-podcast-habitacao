@@ -32,5 +32,6 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 *******************************************************************************
-![image](https://github.com/user-attachments/assets/db9877f3-a284-47df-a305-bf079fa3a769)PODCASTER _Josiane Katsui_                                                                                                                                                                             
-[GITHUB](https://github.com/JosianeKatsui/Prompts-for-podcast-habitacao/edit/main/README.md) / [LindIN](https://www.linkedin.com/feed/)
+![image](https://github.com/user-attachments/assets/db9877f3-a284-47df-a305-bf079fa3a769)  PODCASTER          _Josiane Katsui_                                                                                                                                                                             
+- [GITHUB](https://github.com/JosianeKatsui/Prompts-for-podcast-habitacao/edit/main/README.md)
+- [LindIN](https://www.linkedin.com/feed/)
